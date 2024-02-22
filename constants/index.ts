@@ -9,7 +9,7 @@ export const headerLinks = [
     },
     {
       label: 'Mon Profil',
-      route: '/profil',
+      route: '/profile',
     },
   ]
   
